@@ -79,8 +79,7 @@ Compare multiple model architectures:
 
 - **dcrnn_with.py**: DCRNN implementation with contrastive pretraining for seizure detection
 - **attention.py**: Enhanced DCRNN with multi-head attention mechanism
-- **train_classification.py**: Model training for seizure classification
-- **comparison_classification.py**: Script to compare different models for seizure classification
+=- **comparison_classification.py**: Script to compare different models for seizure classification
 - **comparison_detection.py**: Script to compare different models for seizure detection
 
 ## Model Architectures
