@@ -72,7 +72,7 @@ Compare multiple model architectures:
 
 2. For detection:
    ```bash
-   python comparison_detection.py --data_dir preproc_data/detection_clip12  --result_dir ./results --epochs 30 --batch_size 4 --lr 0.001 --model all   
+   python comparison_detection.py --data_dir preproc_data/detection_clip12  --result_dir results --epochs 30 --batch_size 4 --lr 0.001 --model all   
    ```
 
 ## File Descriptions
