@@ -4,7 +4,7 @@ This repository contains a collection of scripts for analyzing EEG (electroencep
 
 Please find the full source code with data files from this link as dataset was too big to upload:https://drive.google.com/drive/folders/1WnzR1gMXjJYcB96GdnuMGPmaF-fMwbeK?usp=sharing
 
-You can run directly run the models as preprocessed data is already formulated, stillfor new data resampling and preprocessing is part of the repo.
+You can directly run the models as preprocessed data is already formulated, still for new data-resampling and preprocessing scripts are available in the repo.
 
 ## Features
 
