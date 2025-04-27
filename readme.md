@@ -2,6 +2,8 @@
 
 This repository contains a collection of scripts for analyzing EEG (electroencephalogram) signals using various deep learning architectures. The implementation includes support for seizure detection and classification tasks with multiple model architectures and a novel self-supervised pretraining approach.
 
+Please read the other files from this link as dataset was too big too uplaod:
+
 ## Features
 
 - **Multiple model architectures**:
